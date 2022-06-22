@@ -31,7 +31,7 @@
 		"topic": "Animal",
 		"question":[
 		{
-			"q": aa",
+			"q": "aa",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
 		},
 		{
