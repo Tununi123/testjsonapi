@@ -1,7 +1,5 @@
 [
 {
-	"Question": [
-	{
 		"id":1,
 		"topic": "Family",
 		"question":[
@@ -25,12 +23,10 @@
 			"q": "thứ tư",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
 		}
-		]
-	},
-	]
+		]	
 },
 {
-	{
+	
 		"id":2,
 		"topic": "Animal",
 		"question":[
@@ -55,7 +51,5 @@
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
 		}
 		]
-	}
-	]
 }
 ]
