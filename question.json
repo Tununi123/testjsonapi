@@ -2,7 +2,7 @@
 {
 		"id":1,
 		"topic": "Family",
-		"question":
+		"question":[
 		{
 			"q": "đầu tiên",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
@@ -22,12 +22,13 @@
 		{
 			"q": "thứ tư",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}		
+		}	
+		]
 },
 {
 		"id":2,
 		"topic": "Animal",
-		"question":
+		"question":[
 		{
 			"q": "a",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
@@ -47,6 +48,7 @@
 		{
 			"q": "e",
 			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}	
+		}
+		]
 }
 ]
