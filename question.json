@@ -2,53 +2,49 @@
 {
 		"id":1,
 		"topic": "Family",
-		"question":[
-		{
-			"q": "đầu tiên",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "thứ nhất",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "thứ hai",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "thứ ba",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "thứ tư",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}	
-		]
+		"answer":[	
+			"q": "a",		
+			"q": "b",	
+			"q": "c",	
+			"q": "d",	
+		],
+		"right":3,
+		"question":"câu hỏi 1 ?"		
 },
 {
-		"id":2,
+		"id"2,
+		"topic": "Family",
+		"answer":[	
+			"q": "a",		
+			"q": "b",	
+			"q": "c",	
+			"q": "d",	
+		],
+		"right":1,
+		"question":"câu hỏi 2 ?"		
+},
+{
+		"id"3,
 		"topic": "Animal",
-		"question":[
-		{
-			"q": "a",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "b",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "c",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "d",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"q": "e",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}
-		]
-}
+		"answer":[	
+			"q": "a",		
+			"q": "b",	
+			"q": "c",	
+			"q": "d",	
+		],
+		"right":1,
+		"question":"câu hỏi 2 ?"		
+},
+{
+		"id"4,
+		"topic": "Animal",
+		"answer":[	
+			"q": "a",		
+			"q": "b",	
+			"q": "c",	
+			"q": "d",	
+		],
+		"right":0,
+		"question":"câu hỏi 2 ?"		
+},
 ]
