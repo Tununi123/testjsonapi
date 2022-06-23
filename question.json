@@ -1,54 +1,71 @@
 [
+{
+	"Question": [
 	{
-	"Family": [
-		{
 		"id":1,
-		"answer":[	
-			"q": "a",		
-			"q": "b",	
-			"q": "c",	
-			"q": "d",	
-		],
-		"right":3,
-		"question":"câu hỏi 1 ?"		
+		"topic": "Family",
+		"question":[
+		{
+			"id":1,
+			"q": "đầu tiên",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":2,
+			"q": "thứ nhất",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":3,
+			"q": "thứ hai",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":4,
+			"q": "thứ ba",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":5,
+			"q": "thứ tư",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		}
+		]
 	},
+	]
+},
+{
 	{
 		"id":2,
-		"answer":[	
-			"q": "a",		
-			"q": "b",	
-			"q": "c",	
-			"q": "d",	
-		],
-		"right":1,
-		"question":"câu hỏi 2 ?"		
-	},
-	],
-	},
-	{
-	"Animal":[
-{
-		"id"1,
-		"answer":[	
-			"q": "a",		
-			"q": "b",	
-			"q": "c",	
-			"q": "d",	
-		],
-		"right":1,
-		"question":"câu hỏi 2 ?"		
-},
-{
-		"id"2,
-		"answer":[	
-			"q": "a",		
-			"q": "b",	
-			"q": "c",	
-			"q": "d",	
-		],
-		"right":0,
-		"question":"câu hỏi 2 ?"		
-},
+		"topic": "Animal",
+		"question":[
+		{
+			"id":1,
+			"q": "a",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":2,
+			"q": "b",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":3,
+			"q": "c",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":4,
+			"q": "d",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		},
+		{
+			"id":5,
+			"q": "e",
+			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
+		}
 		]
+	}
+	]
 }
 ]
