@@ -2,64 +2,22 @@
 	{
 		"id":1,
 		"topic": "Family",
-		"question":[
-		{
-			"id":1,
-			"q": "đầu tiên",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":2,
-			"q": "thứ nhất",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":3,
-			"q": "thứ hai",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":4,
-			"q": "thứ ba",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":5,
-			"q": "thứ tư",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}
-		]
+		"question":"cau 1?",
+		"anwser":["a","v","c","d"],
+		"right":3
 	},
 	{
 		"id":2,
+		"topic": "Family",
+		"question":"cau 1?",
+		"anwser":["a","v","c","d"],
+		"right":3
+	},
+	{
+		"id"3,
 		"topic": "Animal",
-		"question":[
-		{
-			"id":1,
-			"q": "a",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":2,
-			"q": "b",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":3,
-			"q": "c",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":4,
-			"q": "d",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		},
-		{
-			"id":5,
-			"q": "e",
-			"anwser":[{"name":"a","sta":"true"},{"name":"b","sta":"false"},{"name":"a","sta":"false"},{"name":"a","sta":"false"}]
-		}
-		]
-	}
-	
+		"question":"cau 1?",
+		"anwser":["a","v","c","d"],
+		"right":3
+	},
 ]
