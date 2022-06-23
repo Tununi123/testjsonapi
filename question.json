@@ -1,23 +1,23 @@
 [
 	{
-		"id":1,
+		"id": 1,
 		"topic": "Family",
-		"question":"cau 1?",
-		"anwser":["a","v","c","d"],
-		"right":3
+		"question": "cau 1?",
+		"anwser": ["a","v","c","d"],
+		"right": 3,
 	},
 	{
-		"id":2,
+		"id": 2,
 		"topic": "Family",
-		"question":"cau 1?",
-		"anwser":["a","v","c","d"],
-		"right":3
+		"question": "cau 1?",
+		"anwser": ["a","v","c","d"],
+		"right": 3,
 	},
 	{
-		"id"3,
+		"id": 3,
 		"topic": "Animal",
-		"question":"cau 1?",
-		"anwser":["a","v","c","d"],
-		"right":3
+		"question": "cau 1?",
+		"anwser": ["a","v","c","d"],
+		"right": 3,
 	}
 ]
