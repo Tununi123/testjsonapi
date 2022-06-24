@@ -2,22 +2,22 @@
 	{
 		"id": 1,
 		"topic": "Family",
-		"question": "cau 1?",
-		"anwser": ["a","v","c","d"],
+		"question": "Mẹ cho em trái táo em sẽ làm gì ?",
+		"anwser": ["Bắt tay và cảm ơn","Không làm gì","Cảm ơn bố","Vòng tay và cảm ơn mẹ"],
 		"right": 3
 	},
 	{
 		"id": 2,
 		"topic": "Family",
-		"question": "cau 1?",
-		"anwser": ["a","v","c","d"],
-		"right": 3
+		"question": "Sáng trước khi đi học thì em làm gì?",
+		"anwser": ["Nhảy nhót","Chào bố mẹ","Khóc nhè","Ngủ"],
+		"right": 1
 	},
 	{
 		"id": 3,
 		"topic": "Animal",
-		"question": "cau 1?",
-		"anwser": ["a","v","c","d"],
-		"right": 3
+		"question": "Con mèo sủa như thế nào?",
+		"anwser": ["Gâu Gâu","Meo Meo","Con mèo không biết sủa","Chíp chíp"],
+		"right": 2
 	}
 ]
