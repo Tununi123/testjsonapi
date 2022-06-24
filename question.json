@@ -19,5 +19,26 @@
 		"question": "Con mèo sủa như thế nào?",
 		"anwser": ["Gâu Gâu","Meo Meo","Con mèo không biết sủa","Chíp chíp"],
 		"right": 2
+	},
+	{
+		"id": 4,
+		"topic": "Animal",
+		"question": "Rắn hổ mang là con của rắn hay con của hổ?",
+		"anwser": ["Hổ","Hổ lai rắn","Rắn","Rắn lai hổ"],
+		"right": 2
+	},
+	{
+		"id": 5,
+		"topic": "Sience",
+		"question": "Mây có màu gì?",
+		"anwser": ["Màu tím","Màu xanh da trời","Màu đỏ","Màu Trắng"],
+		"right":3
+	},
+	{
+		"id": 6,
+		"topic": "Sience",
+		"question": "Trong hệ mặt trời hành tinh nào nóng nhất?",
+		"anwser": ["Sao mộc","Sao kim","Sao hỏa","Sao thủy"],
+		"right": 1
 	}
 ]
